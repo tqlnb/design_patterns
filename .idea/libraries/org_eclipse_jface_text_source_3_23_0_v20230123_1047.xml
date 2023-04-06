@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.eclipse.jface.text.source_3.23.0.v20230123-1047">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/swt-test/src/test/resources/org.eclipse.jface.text.source_3.23.0.v20230123-1047.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3c1a102-2a8c-4a9c-b912-fc9b33079a4b" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_jface_text_3_23_0_v20230123_1047.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_jface_text_nl_zh_4_26_0_v20230220105658.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_eclipse_jface_text_source_3_23_0_v20230123_1047.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/bulider/demo1/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/bulider/demo1/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/bulider/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/bulider/demo1/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/bulider/demo1/MobileBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/bulider/demo1/OfoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/AmericanDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/Dessert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/DessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/ItalyDessertFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/MatChaMousse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory/Tiramisu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/armor/Armor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/armor/Chainmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/armor/Robe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/factory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/factory/KnightFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/factory/MageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/weapon/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/weapon/Sword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/abstractfactory1/weapon/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/factory/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/factory/AmericanCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/factory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/factory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/factory/CoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/factory/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/factory/LatteCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/simplefactory/AmericanCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/simplefactory/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/simplefactory/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/simplefactory/LatteCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/factory/simplefactory/SimpleCoffeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/proxycglib/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/proxycglib/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/proxycglib/TrainStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/proxyjdk/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/proxyjdk/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/proxyjdk/SellTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/pattern/proxyjdk/Transtation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo1/AbstractSkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo1/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo1/DefaultSkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo1/SougouInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo1/TqlSkin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo2/before/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo2/before/RectangleDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/java/com/tql/principles/demo2/before/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day01-code/src/test/java/com/tql/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design_patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/src/main/java/org/eclipse/wb/swt/SWTResourceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/src/main/java/org/example/MainWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/src/test/resources/org.eclipse.jface.text.nl_zh_4.26.0.v20230220105658.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/src/test/resources/org.eclipse.jface.text.source_3.23.0.v20230123-1047.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swt-test/src/test/resources/org.eclipse.jface.text_3.23.0.v20230123-1047.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NlUpcsLpyDsZ4SxyuYv7rDrzuy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tql/IdeaProjects/design_patterns/swt-test/src/test/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tql\IdeaProjects\design_patterns\swt-test\src\test\resources" />
+      <recent name="C:\Users\tql\IdeaProjects\design_patterns\swt-test\src\main\java" />
+      <recent name="C:\Users\tql\IdeaProjects\design_patterns\swt-test\src\main\java\org\example" />
+      <recent name="C:\Users\tql\IdeaProjects\design_patterns\day01-code\src\main\java\com\tql\pattern\factory\abstractfactory1\factory" />
+      <recent name="C:\Users\tql\IdeaProjects\design_patterns\day01-code\src\main\java\com\tql\pattern\factory\abstractfactory1\weapon" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tql\IdeaProjects\design_patterns\swt-test\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tql.pattern.proxycglib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.MainWindow">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tql.pattern.bulider.demo1.Client" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tql.pattern.bulider.demo1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.MainWindow" />
+      <module name="swt-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.tql.pattern.factory.abstractfactory1.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tql.pattern.factory.abstractfactory1.Client" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tql.pattern.factory.abstractfactory1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.tql.pattern.proxycglib.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tql.pattern.proxycglib.Client" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tql.pattern.proxycglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.tql.pattern.proxyjdk.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tql.pattern.proxyjdk.Client" />
+      <module name="day01-code" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tql.pattern.proxyjdk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MainWindow" />
+        <item itemvalue="应用程序.com.tql.pattern.proxycglib.Client" />
+        <item itemvalue="应用程序.com.tql.pattern.proxyjdk.Client" />
+        <item itemvalue="应用程序.Client" />
+        <item itemvalue="应用程序.com.tql.pattern.factory.abstractfactory1.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e3c1a102-2a8c-4a9c-b912-fc9b33079a4b" name="变更" comment="" />
+      <created>1680238357817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680238357817</updated>
+      <workItem from="1680238359374" duration="12006000" />
+      <workItem from="1680415857803" duration="9501000" />
+      <workItem from="1680497315318" duration="3337000" />
+      <workItem from="1680507713927" duration="56000" />
+      <workItem from="1680507787028" duration="1941000" />
+      <workItem from="1680587177912" duration="1705000" />
+      <workItem from="1680590704342" duration="1745000" />
+      <workItem from="1680601523541" duration="25000" />
+      <workItem from="1680759456124" duration="704000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
